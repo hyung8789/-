@@ -1,7 +1,7 @@
 # Maze Escape
 
-<strong>Maze Escape Using Stacks in FILO Structure</strong>
-<br>>/br>
+<strong>Maze Escape Using Stack(FILO)</strong>
+<br></br>
 
 1) Entrance marked as 'e'<br>
 2) Exit marked as 'x'<br>
